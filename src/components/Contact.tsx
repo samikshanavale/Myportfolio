@@ -15,7 +15,11 @@ className="bg-amber-100 pt-32 pb-0 relative"
 <WaveDivider className="text-amber-100 -translate-y-32" />
 
 {/* CONTACT DETAILS */}
-      <div className="absolute top-60 left-20 space-y-4 text-gray-700 font-medium">
+      <div className="a/* Mobile Styles (Default) */
+  relative mt-10 px-6 flex flex-col items-center space-y-4 text-gray-700 font-medium
+  
+  /* Desktop Styles (Large screens and up) */
+  lg:absolute lg:top-60 lg:left-20 lg:items-start lg:mt-0 lg:px-0">
 
         <h3 className="text-xl font-semibold text-gray-800 mb-2">
           Get in touch
