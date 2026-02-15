@@ -20,7 +20,7 @@ export default function Projects() {
     {
       title: 'popARt',
       description: 'Developed an AR experience where scanning a specific image triggers a corresponding 3D model to appear, demonstrating image tracking and real-time object placement.',
-      image: `${import.meta.env.BASE_URL}img/projs/popArt.jpg`,      tags: ['Unity', 'Blender', 'Augmented Reality'],
+      image: `${import.meta.env.BASE_URL}img/projs/popart.jpg`,      tags: ['Unity', 'Blender', 'Augmented Reality'],
       github: '',
       demo: 'https://hot-playroom-950.notion.site/UNDER-PROCESS-Projects-bca720f0f979829896cc81dceb77caec?pvs=143',
     },
