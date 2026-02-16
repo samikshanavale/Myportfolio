@@ -26,7 +26,7 @@ className="bg-amber-100 pt-32 pb-0 relative"
         </h3>
 
         <a
-          href="mailto:samiksha.navale@gmail.com"
+          href="mailto:samikshanavale43@gmail.com"
           className="flex items-center gap-3 hover:text-pink-500 transition-colors"
         >
           <Mail className="text-pink-400" size={20} />
